@@ -1,0 +1,13 @@
+package br.dev.ulk.ulkex;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class UlkExApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(UlkExApplication.class, args);
+    }
+
+}
